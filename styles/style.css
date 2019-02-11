@@ -1,0 +1,34 @@
+header{
+  background-color: white;
+  color:red;
+  font-size: 33px;
+  text-align: center;
+}
+img{
+  width:50%;
+}
+.card{
+  background:cyan;
+  width:45%;
+  border-radius:2px 2px 2px;
+  box-shadow:2px 2px 2px;
+  text-align:center;
+  padding:1%;
+  margin:1%;
+
+}
+.main{
+  display:flex;
+// justify-content:space-between;
+}
+.leftDiv{
+  width:30%;
+  background-color: #ddd;
+  border:3px solid #fff000;
+
+}
+.rightDiv{
+  margin:1%;
+  padding:1%;
+  background-color: #ddd;
+}
