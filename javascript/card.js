@@ -36,6 +36,10 @@ card.appendChild(h5);
 var h6=document.createElement("h6");
 h6.textContent=Pro[i].mail;
 card.appendChild(h6);
+var a=document.createElement("a");
+a.textContent="view resume"
+a.href="resume.html";
+card.appendChild(a);
 }
 }
 })();

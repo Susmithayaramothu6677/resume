@@ -1,0 +1,42 @@
+{
+  "profile":{
+    "name":"susmitha",
+    "image":"phase1/image/profile1.png",
+    "collname":"QIS",
+    "number":"8179224239",
+    "mail":"susmitha07@gmail.com",
+     "career":"To secure a challenging position in a reputable organization to expand my learnings, knowledge"
+},
+"Education":[
+  {
+    "degree":"B.Tech",
+    "college":"QIS",
+    "branch":"CSE",
+    "marks":"80%",
+    "endDate":"06/06/2020"
+
+  },
+  {
+    "degree":"Intermediate",
+    "college":"UMRJC",
+    "branch":"MPC",
+    "marks":"85%",
+    "endDate":"06/04/2016"
+
+  },
+
+  {
+    "degree":"SSC",
+    "college":"SSN",
+    "medium":"TM",
+      "marks":"87%",
+    "endDate":"06/04/2014"
+
+  }
+
+],
+"skills":{
+  "OS":"windows 7,windows 8.1,windows8.1,xp",
+  "ps":"c,java,html"
+}
+}
